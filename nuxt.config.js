@@ -33,6 +33,7 @@ export default {
     '@nuxtjs/eslint-module',
     // Simple usage
     '@nuxtjs/date-fns',
+    '@nuxtjs/tailwindcss',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

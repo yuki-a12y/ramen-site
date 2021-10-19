@@ -1,5 +1,6 @@
 <template>
   <article>
+    <p>{{ article.tags }}</p>
     <h1>{{ article.title }}</h1>
     <NuxtContent :document="article" />
   </article>
